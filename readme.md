@@ -1,0 +1,1 @@
+This repository contains eexercises . It showcases js and aims to expande my skills in writing code .
